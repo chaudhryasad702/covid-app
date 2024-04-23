@@ -1,1 +1,1 @@
-# covid-app this is my app in flutter
+# covid-app this is my app in flutter.
